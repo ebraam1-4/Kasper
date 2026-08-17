@@ -163,7 +163,7 @@ nav i {
 /* start home */
 .home {
   height: 100vh;
-  background-image: url(/image/landing.jpg);
+  background-image: url(image/landing.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -255,7 +255,7 @@ nav i {
 /* start design */
 
 .design {
-  background-image: url(/image/design-features.jpg);
+  background-image: url(image/design-features.jpg);
   background-position: center;
   background-size: cover;
   padding-bottom: var(--padding);
@@ -484,7 +484,7 @@ nav i {
   text-align: center;
   padding-top: var(--padding);
   padding-bottom: var(--padding);
-  background-image: url("../image/stats.png");
+  background-image: url("image/stats.png");
   background-size: cover;
   position: relative;
 }
@@ -637,7 +637,7 @@ nav i {
   padding-bottom: var(--padding);
   padding-top: var(--padding);
   text-align: center;
-  background-image: url(/image/quote.jpg);
+  background-image: url(image/quote.jpg);
   color: white;
   background-position: center;
   background-size: cover;
@@ -781,7 +781,7 @@ q {
 .subscribe {
   padding-top: var(--padding);
   padding-bottom: var(--padding);
-  background-image: url("/image/subscribe.jpg");
+  background-image: url("image/subscribe.jpg");
   background-size: cover;
   position: relative;
   display: flex;
@@ -936,7 +936,7 @@ q {
 .footer {
   padding-top: calc(var(--padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
-  background-image: url("/image/subscribe.jpg");
+  background-image: url("image/subscribe.jpg");
   background-size: cover;
   position: relative;
   color: white;
